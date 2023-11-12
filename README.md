@@ -7,12 +7,8 @@ En cada carpeta encontrarás un archivo README.md con la descripción del diseñ
 
 ## Diseños
 1. Animated Hover Anchor
-
-  <!-- Enlace del creador - URL del post, o reel -->
-
-  <!-- Enlace de el diseño en acción -->
-
-  <!-- Enlace de los recursos -->
+[![Edit animated-hover-anchors](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/animated-hover-anchors-gjdcdv?fontsize=14&hidenavigation=1&theme=dark)
+  [Fuentes](https://www.instagram.com/p/CvtiqG4LsQq/?img_index=3) - [Recursos](https://github.com/plasenca/animated-designs/tree/master/animated-hover-anchors)
 
 2. Cool TODO list App
 
