@@ -1,0 +1,63 @@
+:root {
+  --text: #fff;
+  --line: #fff;
+  --line-active: #fff;
+  font-family: "Syne", sans-serif;
+}
+
+body {
+  background-color: #000;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 0;
+  color: var(--text);
+  margin-bottom: 10rem;
+}
+
+p {
+  font-size: 18px;
+  margin: 0;
+  color: var(--text);
+}
+
+p a {
+  display: inline-block;
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+  margin: 0 var(--spacing, 0px);
+  transition: margin 0.25s;
+}
+
+p a svg {
+  width: 76px;
+  height: 40px;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translate(-50%, 7px) translateZ(0);
+  fill: none;
+  stroke: var(--stroke, var(--line));
+  stroke-width: 2px;
+  stroke-linecap: round;
+  stroke-dasharray: var(--offset, 69px) 278px;
+  stroke-dashoffset: 361px;
+  transition: stroke 0.25s ease var(--stroke-delay, 0s), stroke-dasharray 0.35s;
+}
+
+p a:hover {
+  --spacing: 4px;
+  --stroke: var(--line-active);
+  --stroke-delay: 0.1s;
+  --offset: 180px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+}
