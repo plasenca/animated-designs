@@ -20,8 +20,5 @@ En cada carpeta encontrarás un archivo README.md con la descripción del diseñ
 
 3. Sticky Navigation
 
-  <!-- Enlace del creador - URL del post, o reel -->
-
-  <!-- Enlace de el diseño en acción -->
-
-  <!-- Enlace de los recursos -->
+  [![Edit fancy-glade-s7jvpt](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/fancy-glade-s7jvpt?fontsize=14&hidenavigation=1&theme=dark)
+  [Fuentes](https://www.instagram.com/parth.webdev) - [Recursos](https://github.com/plasenca/animated-designs/tree/master/sticky-navbar)
