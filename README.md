@@ -12,11 +12,8 @@ En cada carpeta encontrarás un archivo README.md con la descripción del diseñ
 
 2. Cool TODO list App
 
-  <!-- Enlace del creador - URL del post, o reel -->
-
-  <!-- Enlace de el diseño en acción -->
-
-  <!-- Enlace de los recursos -->
+  [![Edit cool-todo-list-app](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/practical-rain-stlrqc?fontsize=14&hidenavigation=1&theme=dark)
+  [Fuentes](https://www.instagram.com/p/CvbfgbYoNzC/?img_index=1) - [Recursos](https://github.com/plasenca/animated-designs/tree/master/cool-todo-list-app)
 
 3. Sticky Navigation
 
