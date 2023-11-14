@@ -1,0 +1,20 @@
+:root {
+  background-color: #eee;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+#image {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  clip-path: circle(50% at 50% 50%);
+  aspect-ratio: attr(width) / attr(height);
+  background-color: #fff;
+}

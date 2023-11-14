@@ -7,6 +7,7 @@ En cada carpeta encontrarás un archivo README.md con la descripción del diseñ
 
 ## Diseños
 1. Animated Hover Anchor
+
 [![Edit animated-hover-anchors](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/animated-hover-anchors-gjdcdv?fontsize=14&hidenavigation=1&theme=dark)
   [Fuentes](https://www.instagram.com/p/CvtiqG4LsQq/?img_index=3) - [Recursos](https://github.com/plasenca/animated-designs/tree/master/animated-hover-anchors)
 
@@ -21,5 +22,11 @@ En cada carpeta encontrarás un archivo README.md con la descripción del diseñ
   [Fuentes](https://www.instagram.com/parth.webdev) - [Recursos](https://github.com/plasenca/animated-designs/tree/master/sticky-navbar)
 
 4. Flip Card
+
   [![Edit flip-card](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/flip-card-pqr8xh?fontsize=14&hidenavigation=1&theme=dark)
   [Recursos](https://github.com/plasenca/animated-designs/tree/master/flip-card)
+
+5. Image Preview
+
+  [![Edit image-preview](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/image-preview-8v7rfc?fontsize=14&hidenavigation=1&theme=dark)
+  [Recursos](https://github.com/plasenca/animated-designs/tree/master/image-preview)
