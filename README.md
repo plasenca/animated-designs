@@ -30,3 +30,8 @@ En cada carpeta encontrarás un archivo README.md con la descripción del diseñ
 
   [![Edit image-preview](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/image-preview-8v7rfc?fontsize=14&hidenavigation=1&theme=dark)
   [Recursos](https://github.com/plasenca/animated-designs/tree/master/image-preview)
+
+6. Animated Hover Siblings
+
+  [![Edit hover-siblings](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/sandbox/hover-siblings-jnsnp3)
+  [Recursos](https://github.com/plasenca/animated-designs/tree/master/hover-siblings)
